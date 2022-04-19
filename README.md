@@ -2,5 +2,5 @@
 
 - 👨‍💻 Frontend engineer. Vue.js / React.
 - 💙💛 Irpin, Ukraine (Currently Vynohradiv, thanks Russia).
-- 🧑‍🎓 Passionate on learning
+- 🧑‍🎓 Passionate about learning
 - 💎 Main values in work: team, experience exchange, friendliness.
